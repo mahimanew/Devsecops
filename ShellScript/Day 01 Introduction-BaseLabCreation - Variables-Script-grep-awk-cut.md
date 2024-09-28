@@ -160,6 +160,8 @@ To enable debugging in a script:
 ```bash
 #!/bin/bash
 set -x  # Enable debugging
+aws s3 ls | cut -d ' ' -f 3 | grep -E ^www[-]
+echo "Hello Saikiran, welcome to DevSecOps!"
 ```
 
 This will print each command before executing it, helping you to debug.
