@@ -1,6 +1,6 @@
 #  Introduction-BaseLabCreation - Variables-Script-grep-awk-cut
 
-![1](https://github.com/user-attachments/assets/bb18e257-ad41-4d32-acfe-4963bb23cb8f)
+
 
 # DevSecOps Scripting Course - Day 01 & 02
 
